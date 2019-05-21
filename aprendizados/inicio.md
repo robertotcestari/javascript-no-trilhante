@@ -1,7 +1,8 @@
-# Direito ao ponto
+# Comandos perpedêuticos
 
-## Notícias jurídicas diárias em podcast
-
-### Comandos Git Importantes
-
-asdf
+`git status`
+`git add`
+`git push`
+`git pull`
+`git commit`
+`git commit -m " "`
