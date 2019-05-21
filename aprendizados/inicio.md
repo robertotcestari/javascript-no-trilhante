@@ -1,10 +1,4 @@
-# Início
+#Direito ao ponto
 
-## Git e Github
+##Notícias jurídicas diárias em podcast
 
-### Comandos Git Importantes
-
-Algo **negrito** se eu colocar um `git status`
-
-1111
-8888
