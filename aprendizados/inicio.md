@@ -1,6 +1,6 @@
-# Início
+# Direito ao ponto
 
-## Git e Github
+## Notícias jurídicas diárias em podcast
 
 ### Comandos Git Importantes
 
